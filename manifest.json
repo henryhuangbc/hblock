@@ -1,0 +1,12 @@
+
+{
+  "name": "HBlock",
+  "version": "1.0",
+  "description": "ads are so dumb",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "main": {
+    "scripts": ["main.js"]
+  },
+
+  "manifest_version": 2
+}
